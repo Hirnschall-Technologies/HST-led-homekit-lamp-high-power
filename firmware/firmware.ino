@@ -60,7 +60,7 @@ void setPosition() {
 }
 
 void setup() {
-  analogWriteFreq(100);
+  analogWriteFreq(100);    //less than 500 Hz for linear dimming with AL8860Q
   
   pinMode(LED_1,OUTPUT);
   pinMode(LED_2,OUTPUT);
