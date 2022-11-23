@@ -12,7 +12,7 @@ Using a modular design, we can reduce waste and wast less power.
 - [x] Up to 108W, approx 12000 lumen
 - [x] Homekit enabled (uses esp8266)
 - [x] Manual On/Off switch in addition to Homekit (I use a 433MHz remote)
-- [x] Uses 24V
+- [x] Uses 12V to 48V
 - [x] Temperature sensor on each LED daughter board
 - [x] Each LED on a separate daughter board, thus each led can be raplaced easily
 - [x] Open source (Arduino compatible)
